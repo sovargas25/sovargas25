@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sofia
+- 👀 I’m interested in Data Analytics, Sustainability and ESG
+- 🌱 I’m currently practicing Python
+- 😄 Pronouns: she/her
+- 🌎 From Costa Rica 
